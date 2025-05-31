@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+.env/
+env/
+
+# Python environment and cache files
+*.pyc
+*.pyo
+*.pyd
+.Python
+env.bak/
+venv.bak/
+
+# VS Code settings (optional)
+.vscode/
+
+# Other IDE/editor folders (optional)
+.idea/
+*.sublime-project
+*.sublime-workspace
